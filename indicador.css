@@ -1,0 +1,72 @@
+
+@import url(https://fonts.googleapis.com/css?family=Bree+Serif);
+/*font-family: 'Bree Serif', serif;*/
+
+.contenedor-principal {
+    width: 324px;
+    height: 507px;
+    border: 1px;
+    border-color: black;
+    background: #ECECEC;
+    border-bottom: 6px solid #099648;
+}
+.titulo-indicador {
+    background: #099648;
+    color: #fff;
+    font-family: inherit;
+    font-size: larger;
+}
+.titulo {
+    padding: 7px 25px;
+    font-family: 'Bree Serif', serif;
+}
+.indicador {
+    background: #fff;
+    margin-top: 9px;
+    margin-left: 6px;
+    margin-right: 6px;
+    height: 28px;
+    padding: 7px 20px;
+    font-family: inherit;
+    font-size: larger;
+}
+.grafica {
+    background: #fff;
+    margin-top: 9px;
+    width: 312px;
+    height: 400px;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+.trm {
+    font: 23px 'Bree Serif', serif;
+    margin-left: 80px;
+    font-weight: 100;
+    position: relative;
+    top: -2px;
+    color: #474747;
+}
+.borde-grafica {
+    height: 9px;
+    background: #099648;
+    margin-top: 9px;
+}
+.var {
+font-family: 'Bree Serif', serif;
+font-weight: 700;
+color: #099648;
+width: 30px;
+height: 30px;
+position: relative;
+top: -3px;
+left: 7px;
+}
+#seccionEspecial .derecha iframe {
+margin-bottom: 20px!important;  
+}
+body {
+    display: block;
+    margin: 1px;
+}
+
+
